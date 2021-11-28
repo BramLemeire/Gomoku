@@ -13,8 +13,8 @@ An optional rule introduced capturing:
 * On the next turn, it is forbidden to place a stone where stones were previously captured.
 
 ## Screenshots
-![Start screen](screenshots/start.jpg)
-![Winner](screenshots/winner.jpg)
-![Capturing enabled](screenshots/capturing.jpg)
-![Settings screen](screenshots/settings.jpg)
-![Changed theme](screenshots/change_theme.jpg)
+![Start screen](screenshots/start.JPG)
+![Winner](screenshots/winner.JPG)
+![Capturing enabled](screenshots/capturing.JPG)
+![Settings screen](screenshots/settings.JPG)
+![Changed theme](screenshots/change_theme.JPG)
