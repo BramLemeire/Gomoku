@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:View.Themes">
+    <SolidColorBrush x:Key="backgroundColor" Color="#3c6e71" />
+    <SolidColorBrush x:Key="backgroundRoundButton" Color="LightGray" />
+    <SolidColorBrush x:Key="colorTitle" Color="LightGray" />
+    <SolidColorBrush x:Key="backgroundRoundedButtonOnMouseOver" Color="Gray" />
+</ResourceDictionary>
+    
